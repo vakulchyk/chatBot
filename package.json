@@ -1,0 +1,24 @@
+{
+  "name": "sample_chat_bot",
+  "version": "1.0.0",
+  "description": "Simple chat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vakulchyk/chatBot.git"
+  },
+  "author": "vakulchyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vakulchyk/chatBot/issues"
+  },
+  "homepage": "https://github.com/vakulchyk/chatBot#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "dotenv": "^4.0.0",
+    "restify": "^4.3.0"
+  }
+}
